@@ -14,7 +14,7 @@
   "author": "sananiki",
   "license": "ISC",
   "dependencies": {
-    "antd-mobile": "^0.7.8",
+    "antd-mobile": "^0.8.0",
     "babel": "^6.5.2",
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
