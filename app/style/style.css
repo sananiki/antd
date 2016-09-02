@@ -1,0 +1,28 @@
+
+.gutter-example .ant-row > div {
+  background: transparent;
+  border: 0;
+}
+.gutter-box {
+  background: #2db7f5;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 6px;
+}
+.custom-image img {
+  display: block;
+}
+.custom-card {
+ margin-top:20px;
+ 
+}
+.custom-card p {
+  color: #999;
+}
+.code-box-demo .ant-row {
+  margin-left: -8px;
+  margin-right: -8px;
+}
+.code-box-demo .ant-row > div {
+  padding: 0 8px;
+}
