@@ -25,7 +25,7 @@ export default class Header extends React.Component {
                 <Menu.Item key="mail">
                     <Icon type="mail" />首页
                 </Menu.Item>
-                <Menu.Item key="app" disabled>
+                <Menu.Item key="app">
                     <Icon type="appstore" />咨询
                 </Menu.Item>
                 <SubMenu title={<span><Icon type="setting" />分类</span>}>
