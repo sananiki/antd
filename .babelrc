@@ -3,6 +3,6 @@
   //"plugins": ["antd", { "style": true }]  //CSS和JS按需加载，babel-antd
   "plugins": [["antd", {
       "style": "css",  // 'less',
-      "libraryName": "antd-mobile"
+      "libraryName": "antd"
     }]]
 }

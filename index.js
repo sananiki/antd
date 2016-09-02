@@ -5,8 +5,10 @@ import ReactDOM from 'react-dom';
 //import thunk from 'redux-thunk';
 //import todoApp from './app/container/reducers'
 import App from './app/containers/App'
+import { Calendar } from 'antd';
 //import createLogger from 'redux-logger'  //日志输出中间件
-import 'antd-mobile/dist/antd-mobile.css'; 
+//import 'antd-mobile/dist/antd-mobile.css'; 
+//import './app/style/style.css'
 //import { registerListeners} from './container/actions'
 /*const logger = store => next => action => {
   console.log('dispatching', action)
@@ -23,7 +25,7 @@ let rootElement = document.getElementById('root');
 //store.dispatch(registerListeners())
 ReactDOM.render(
     //<Provider store={store} >
-        <App />,
+        <App  />,
     //</Provider>,
     rootElement
 )
